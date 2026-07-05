@@ -2,7 +2,8 @@
  QR Code Generator
 یه ابزار خط فرمان ساده با Node.js که هر متنی رو به QR Code تبدیل می‌کنه و توی یه فایل ذخیره می‌کنه.
 
-🚀 چطور اجراش کنی؟ #
+🚀 چطور اجراش کنی؟
+---
 bash
 git clone https://github.com/Hamed-Kolivand/QR-Code-Generator
 cd QR-Code-Generator
